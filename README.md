@@ -34,9 +34,9 @@ Commits record changes, allowing version tracking and rollback if needed.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 ## Aswer
 Branches let developers work on features independently without affecting the main code. Steps:
-Create a branch (git branch feature-branch).
-Switch to it (git checkout feature-branch).
-Merge changes (git merge feature-branch into main).
+1. Create a branch (git branch feature-branch).
+2. Switch to it (git checkout feature-branch).
+3. Merge changes (git merge feature-branch into main).
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
