@@ -39,7 +39,13 @@ Branches let developers work on features independently without affecting the mai
 3. Merge changes (git merge feature-branch into main).
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
-
+## Aswer
+Pull requests facilitate code review before merging changes. Steps:
+1. Push changes to a branch.
+2. Open a pull request on GitHub.
+3. Request reviews and address feedback.
+4. Merge after approval.
+   
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
