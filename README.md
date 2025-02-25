@@ -13,11 +13,11 @@
    ## Decisions That Matter: Repo Visibility, README, LICENSE, Structure
    
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
-## Answer 
-## The README file is the first documentation that describes everything about your project such as purpose, installation, usage, contribution, and license. Related: 10 Best TypeScript Libraries for Building React Applications As we do in real-world projects, adding documentation of every file and function increases collaboration as newcomers can easily understand and navigate the project.
+## Answer: 
+## The README file is the first documentation that describes everything about your project such as purpose, installation, usage, contribution, and license. Related: 10 Best TypeScript Libraries for Building React  Applications As we do in real-world projects, adding documentation of every file and function increases collaboration as newcomers can easily understand and navigate the project.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
-## Answer
+## Answer:
 ## Public Repositories: Visible to all, ideal for open-source collaboration but provides no privacy.
 ## Private Repositories: Restricted environment for confidentiality but limits open contributions.
 ## Advantages & Disadvantages:: Public Repositories promote collaboration and are open to community contribution, but private repositories protect sensitive data.
@@ -54,9 +54,9 @@
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 ## Answer:
-Track Issues for bugs, tasks, and enhancements. Project boards in Confluence group issues to workflows (To do, In progress). E.g., use issues for reporting bugs and boards for sprint planning
+## Track Issues for bugs, tasks, and enhancements. Project boards in Confluence group issues to workflows (To do, In progress). E.g., use issues for reporting bugs and boards for sprint planning
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 ## Answer:
 ## Challenges: Merge conflicts, bad commit messages, and out-of-date local branches.
-B## est Practices — Frequently commit, write clear messages, work with branches, review code using pull requests & document changes.
+## Best Practices — Frequently commit, write clear messages, work with branches, review code using pull requests & document changes.
